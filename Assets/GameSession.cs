@@ -45,6 +45,11 @@ public class GameSession : MonoBehaviour
             ResetGameSession();
         }
     }
+    public void AddToScore(int pointsToAdd){
+        score += pointsToAdd;
+        scoreText.text = score.ToString();
+        
+    }
 
     private void TakeLife()
     {

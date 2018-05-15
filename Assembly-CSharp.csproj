@@ -114,6 +114,7 @@
     <Compile Include="Assets\Cinemachine\Timeline\CinemachineTrack.cs" />
     <Compile Include="Assets\GameSession.cs" />
     <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\ScenePersist.cs" />
     <Compile Include="Assets\Scripts\EnemyMovement.cs" />
     <Compile Include="Assets\Scripts\LevelExit.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
