@@ -1,11 +1,9 @@
 ﻿<Properties StartupConfiguration="{64E58080-2715-FFEB-0287-D666E571DE28}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScenePersist.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CoinPickup.cs">
     <Files>
       <File FileName="Assets/Scripts/Player.cs" Line="86" Column="1" />
-      <File FileName="Assets/MainMenu.cs" Line="7" Column="2" />
-      <File FileName="Assets/GameSession.cs" Line="50" Column="43" />
-      <File FileName="Assets/ScenePersist.cs" Line="39" Column="2" />
+      <File FileName="Assets/CoinPickup.cs" Line="8" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
